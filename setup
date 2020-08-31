@@ -1,0 +1,8 @@
+
+pip3 install virtualenv
+
+virtualenv -p /usr/bin/python3.8 pygamezero
+
+source pygamezero/bin/activate
+
+pip install pgzero
